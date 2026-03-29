@@ -6,13 +6,15 @@
 
 ```
 ## Gmail
-- 账号: your@gmail.com
+- 账号: jerome.tycarbide@gmail.com
 
 ## 常用命令
 - 查天气: weather Beijing
 - 查日历: gog cal today
 ```
-
+## Notion
+- ID: ab4341bb-65b1-4bd6-8d5d-a5751d3ada40
+- Notion API:ab4341bb-65b1-4bd6-8d5d-a5751d3ada40
 ---
 
 *在这里添加你的工具配置和备忘。*
